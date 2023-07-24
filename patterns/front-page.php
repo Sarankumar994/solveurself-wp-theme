@@ -14,7 +14,7 @@
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
-<!-- wp:navigation {"ref":15,"layout":{"type":"flex","justifyContent":"center"}} /--></div>
+<!-- wp:navigation {"ref":31,"layout":{"type":"flex","justifyContent":"center"}} /--></div>
 <!-- /wp:group -->
 
 <!-- wp:cover {"dimRatio":20,"overlayColor":"white","isDark":false} -->
@@ -60,7 +60,7 @@
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"black","className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-black-color has-white-background-color has-text-color has-background wp-element-button">View All</a></div>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-black-color has-white-background-color has-text-color has-background wp-element-button" href="http://localhost:8080/blog/">View All</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group -->
